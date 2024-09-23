@@ -1,0 +1,134 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 105,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 112,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 115,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 118,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 129,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 136,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 139,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Runtime",
+			"type" : "code"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Runtime",
+			"destination" : "/home/levian/Documentos/TFC/Codigo Fuente/Frontend App/build/bundle",
+			"paths" : 
+			[
+				"intermediates_do_not_run/checkter"
+			],
+			"targetId" : "checkter::@6890427a1f51a3e7e1df",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Runtime",
+			"destination" : "/home/levian/Documentos/TFC/Codigo Fuente/Frontend App/build/bundle/data",
+			"paths" : 
+			[
+				"flutter/ephemeral/icudtl.dat"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Runtime",
+			"destination" : "/home/levian/Documentos/TFC/Codigo Fuente/Frontend App/build/bundle/lib",
+			"paths" : 
+			[
+				"flutter/ephemeral/libflutter_linux_gtk.so"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Runtime",
+			"destination" : "/home/levian/Documentos/TFC/Codigo Fuente/Frontend App/build/bundle/lib",
+			"paths" : 
+			[
+				{
+					"from" : "/home/levian/Documentos/TFC/Codigo Fuente/Frontend App/checkter/build/native_assets/linux",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Runtime",
+			"type" : "code"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Runtime",
+			"destination" : "/home/levian/Documentos/TFC/Codigo Fuente/Frontend App/build/bundle/data",
+			"paths" : 
+			[
+				"/home/levian/Documentos/TFC/Codigo Fuente/Frontend App/checkter/build//flutter_assets"
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	}
+}

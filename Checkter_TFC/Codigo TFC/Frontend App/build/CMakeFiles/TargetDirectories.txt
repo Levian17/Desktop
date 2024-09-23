@@ -1,0 +1,14 @@
+/home/levian/Documentos/TFC/Codigo Fuente/Frontend App/build/CMakeFiles/checkter.dir
+/home/levian/Documentos/TFC/Codigo Fuente/Frontend App/build/CMakeFiles/edit_cache.dir
+/home/levian/Documentos/TFC/Codigo Fuente/Frontend App/build/CMakeFiles/rebuild_cache.dir
+/home/levian/Documentos/TFC/Codigo Fuente/Frontend App/build/CMakeFiles/list_install_components.dir
+/home/levian/Documentos/TFC/Codigo Fuente/Frontend App/build/CMakeFiles/install.dir
+/home/levian/Documentos/TFC/Codigo Fuente/Frontend App/build/CMakeFiles/install/local.dir
+/home/levian/Documentos/TFC/Codigo Fuente/Frontend App/build/CMakeFiles/install/strip.dir
+/home/levian/Documentos/TFC/Codigo Fuente/Frontend App/build/flutter/CMakeFiles/flutter_assemble.dir
+/home/levian/Documentos/TFC/Codigo Fuente/Frontend App/build/flutter/CMakeFiles/edit_cache.dir
+/home/levian/Documentos/TFC/Codigo Fuente/Frontend App/build/flutter/CMakeFiles/rebuild_cache.dir
+/home/levian/Documentos/TFC/Codigo Fuente/Frontend App/build/flutter/CMakeFiles/list_install_components.dir
+/home/levian/Documentos/TFC/Codigo Fuente/Frontend App/build/flutter/CMakeFiles/install.dir
+/home/levian/Documentos/TFC/Codigo Fuente/Frontend App/build/flutter/CMakeFiles/install/local.dir
+/home/levian/Documentos/TFC/Codigo Fuente/Frontend App/build/flutter/CMakeFiles/install/strip.dir
